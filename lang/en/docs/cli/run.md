@@ -24,7 +24,7 @@ You may define [`scripts`]({{url_base}}/docs/package-json#toc-scripts) in your
 ##### `yarn run [script] [<args>]` <a class="toc" id="toc-yarn-run-script" href="#toc-yarn-run-script"></a>
 
 If you have defined a `scripts` object in your package, this command will run
-the specified `[script]`. For example:
+the specified `[script]`. For ex:
 
 ```sh
 yarn run test
